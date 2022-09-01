@@ -1,0 +1,11 @@
+
+
+
+
+
+module
+pattern1_divide_modlue
+    |
+    |----bicycle.py
+    |----schedule.py
+    |----schedulable.py

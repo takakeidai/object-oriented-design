@@ -1,0 +1,10 @@
+
+
+
+
+
+module
+pattern2_use_classmethod
+    |
+    |---method_set.py
+    |---schedule.py
